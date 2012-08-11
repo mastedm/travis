@@ -1,0 +1,7 @@
+main.c:16 main: x = 0
+main.c:10 inc: x = 0
+main.c:10 inc: x = 1
+main.c:10 inc: x = 2
+main.c:10 inc: x = 3
+main.c:10 inc: x = 4
+main.c:20 main: x = 5
